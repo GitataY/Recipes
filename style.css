@@ -20,6 +20,17 @@ h1 {
     width: 100px;
 }
 
+.meal-search-box {
+    margin: auto;
+    max-width: 225px;
+}
+
+.meal-result h2{
+    font-weight: bold;
+    font-family: 'poppins';
+    text-align: center;
+}
+
 .content {
     display: flex;
     flex-direction: row;
